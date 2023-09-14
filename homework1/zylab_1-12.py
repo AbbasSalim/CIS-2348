@@ -1,4 +1,7 @@
-userNum = int(input())
-userNumSquared = userNum ** 2 # Bug here; fix it when instructed
+# Abbas Salim
+# 2026396
 
-print(userNumSquared) # Output formatting issue here; fix it when instructed
+userNum = int(input())
+userNumSquared = userNum ** 2  # Bug here; fix it when instructed
+
+print(userNumSquared)  # Output formatting issue here; fix it when instructed
